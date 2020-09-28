@@ -1,0 +1,24 @@
+.message {
+    display:flex;
+    align-items: center;
+    background-color: white;
+    width: fit-content;
+    padding: 8px;
+    border-radius: 50px;
+    margin: 5px 20px;
+}
+.sent{
+    margin-left: auto;
+    background-color: #35b8ff;
+    color: white;
+}
+.recived{
+    direction: rtl;
+}
+.message div{
+    margin: 0 10px;
+}
+.logo{
+    width: 30px;
+    border-radius: 50px;    
+}
